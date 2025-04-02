@@ -644,7 +644,7 @@ const LandingPage = () => {
               >
                 {isWideFooter && (
                   /* Left Section when wide */
-                  <Box position="absolute" bottom="20px" left="0">
+                  <Box position="absolute" bottom="10px" left="0">
                     <Text fontSize="16px" lineHeight="20px">
                       All rights reserved © 2024 Vellonex
                     </Text>
