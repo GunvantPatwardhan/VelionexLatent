@@ -644,7 +644,7 @@ const LandingPage = () => {
               >
                 {isWideFooter && (
                   /* Left Section when wide */
-                  <Box alignSelf="flex-start" paddingLeft="20px">
+                  <Box alignSelf="flex-start">
                     <Text mt="469px" fontSize="16px" lineHeight="20px">
                       All rights reserved © 2024 Vellonex
                     </Text>
