@@ -36,7 +36,7 @@ const LandingPage = () => {
       setIsSmallMobile(window.innerWidth >= 390);
       setIsMinWidth(window.innerWidth >= 320);
       setIsWideScreen(window.innerWidth >= 1000);
-      setIsWideFooter(window.innerWidth >= 1250);
+      setIsWideFooter(window.innerWidth >= 1320);
       setIsMediumFooter(window.innerWidth >= 950);
     };
 
