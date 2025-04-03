@@ -304,7 +304,7 @@ const Navbar = () => {
                     display="flex"
                     alignItems="center"
                     justifyContent="center"
-                    padding="8px 20px"
+                    padding="7px 19px"
                     mt={20}
                     color="black"
                   >
